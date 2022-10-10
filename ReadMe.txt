@@ -1,2 +1,2 @@
-cards.csv file contains all the data extracted from cards which includes titles, description and see more link at a specific module in nivea page. 
-To see the data in the terminal you should execute node cardInfo.js
+cards.csv file contains all the data extracted from cards which includes images ,sublines ,titles, description and see more link at a specific module in nivea page. 
+To see the data in the terminal you should execute node index.js
