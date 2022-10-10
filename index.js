@@ -24,6 +24,7 @@ cards.each(function(){
 
 console.log(product_data)
 }
+
 catch(error){
     console.error(error)
 }
